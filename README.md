@@ -1,5 +1,7 @@
 # Hassan Djirdeh
  
+<a href="https://twitter.com/intent/follow?screen_name=djirdehh&tw_p=followbutton"><img src="https://img.shields.io/twitter/follow/djirdehh?label=%40djirdehh&style=social"></a>
+
 👋🏽 I'm Hassan!<br />
 👨🏽‍💻 I'm a Web Engineer at <a href="http://shopify.com/" target="_blank">Shopify</a>.<br />
 🐬 I've created a fullstack React masterclass called <a href="https://newline.co/tinyhouse" target="_blank">TinyHouse</a>.<br />
