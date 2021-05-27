@@ -7,4 +7,3 @@
 🐬 I've created a fullstack React masterclass called <a href="https://newline.co/tinyhouse" target="_blank">TinyHouse</a>.<br />
 🦌 I've written a book on Vue named <a href="https://newline.co/vue" target="_blank">Fullstack Vue</a>.<br />
 ✍🏽 I've just started to blog at my <a href="https://www.hassan.rocks/" target="_blank">personal site</a>.<br />
-📫 I can always be reached by <a href="mailto:hassan.djirdeh@gmail.com" target="_blank">mail</a> or on <a href="https://twitter.com/djirdehh" target="_blank">Twitter</a>.
