@@ -4,6 +4,4 @@
 
 👋🏽 I'm Hassan!<br />
 👨🏽‍💻 I'm a Software Engineer @ <a href="https://www.doordash.com/" target="_blank">Doordash</a>.<br />
-🐬 I've created a fullstack React masterclass called <a href="https://newline.co/tinyhouse" target="_blank">TinyHouse</a>.<br />
-🦌 I've written a book on Vue named <a href="https://newline.co/vue" target="_blank">Fullstack Vue</a>.<br />
-✍🏽 I've just started to blog at my <a href="https://frontendfresh.com" target="_blank">newsletter</a>.<br />
+🦖 I'm currently writing a book on <a href="http://largeapps.dev/" target="_blank">Building Large Scale Web Apps — A React Field Guide</a>.<br />
