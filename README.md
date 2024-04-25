@@ -4,4 +4,4 @@
 
 👋🏽 I'm Hassan!<br />
 👨🏽‍💻 I'm a Software Engineer @ <a href="https://www.doordash.com/" target="_blank">Doordash</a>.<br />
-🦖 I'm currently writing a book on <a href="http://largeapps.dev/" target="_blank">Building Large Scale Web Apps — A React Field Guide</a>.<br />
+🦖 I've just published my latest book <a href="http://largeapps.dev/" target="_blank">Building Large Scale Web Apps — A React Field Guide</a>.<br />
